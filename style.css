@@ -1,0 +1,23 @@
+.container{
+    margin: 0%;
+      padding: 0%;
+      color: azure;
+      background-color: #3b1a69;
+      margin-top: 20px;
+      width: 350px;
+      height: 500px;
+      padding-left: 4%;
+      border-radius: 10%;
+      border-style:  solid;
+      border-color:  burlywood;
+      margin: auto;
+      
+   }
+   .heading{
+       padding-left: 25%;
+   }
+   .button{
+   margin-left: 20%;
+   background-color: burlywood;
+   border-radius: 15%;
+   }
